@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="update">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+</resources>
